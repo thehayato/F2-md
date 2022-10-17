@@ -26,18 +26,18 @@
 #### This script is open to anyone! If you want to add commands, please contribute / pull request! Buying and selling scripts is prohibited!
 - [Cara Penginstallan Bot](https://youtu.be/41Xj_Kg4DCM)
 - Change [ownerNumber](https://github.com/TobyG74/ElainaBOT/blob/df5caa20c74a1e76345a9664baa8dbc1b198da21/tobz.js#L248) in tobz.js to be your number
-ownerNumber = "6213xxxxxx@c.us"
+ownerNumber = "6281522833948"
 - Change [adminNumber](https://github.com/TobyG74/ElainaBOT/blob/main/lib/database/admin.json#L1) in admin.json to be your number
-[] -> ["62813xxxxxx@c.us"]
+[] -> ["6281522833948"]
 
 ## Contact
 
 If you find some bugs please contact the WhatsApp number on Contact
 
 - [TELEGRAM](https://t.me/tobz2k19)
-- [WHATSAPP](https://wa.me/6281311850715)
-- [MY BOT](wa.me/447418349954)
-- [WHATSAPP GROUP](https://chat.whatsapp.com/IgfjcaGBMNXG1bHp3sFIOE)
+- [WHATSAPP](https://wa.me/6281522833948)
+- [MY BOT](wa.me/081522833948)
+- [WHATSAPP GROUP](https://chat.whatsapp.com/KsLCmqsBLqMEQu8bf1gR3r)
 
 ## APIKEY
 Open setting.js then edit & paste it in YOUR_APIKEY
